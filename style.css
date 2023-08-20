@@ -4,6 +4,17 @@ h1, h3, p, .forecast, .weather, .location-button{
     color: #344A50;
 }
 
+a {
+    text-decoration: none;
+}
+
+small {
+    position: relative;
+    top: 32rem;
+    left: 12rem;
+}
+
+
 .location-button {
     position: relative;
     bottom: 30px;
